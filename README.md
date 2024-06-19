@@ -12,10 +12,12 @@ ___
   
 |Date|Title|
 |:---:|:---:|
-|2023.08.29|Transformer-Encoder 부분|
+|2024.05.30|LLM 최신 기술 동향 소개|
+|2024.05.09|[paper review] Transformer|
+|2024.04.04|자연어 처리에서의 모델 성능 평가방법(PPL)|
 |2024.03.28|자연어 처리에서의 모델 성능 평가방법(BLEU Score)|
-|2024.03.03|[paper review] NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE|
-|2024.02.19|[paper review] Sequence to Sequence Learning with Neural Networks|
+|2024.03.03|[paper review] Attention|
+|2024.02.19|[paper review] Sequence to Sequence|
 |2023.08.29|Transformer-Encoder 부분|
 |2023.07.26|Attention|
 |2023.07.13|seq2seq|
@@ -29,20 +31,27 @@ ___
 
 <br>
 
+
+
 ### 딥러닝 아키텍처를 활용한 자연어 응답기반 MBTI 분석
 `2023.08.02` ~ `2023.11.28`
 - 졸업 프로젝트 진행상황 발표
 
 |Date|Title|
 |:---:|:---:|
-|2023.08.09|주제 선정 및 소개|
-|2023.08.22|데이터 수집 방법, 데이터 증강방법|
-|2023.09.05|LSTM 모델 구현|
-|2023.09.19|LSTM 모델 학습 결과 / 답변분류 모델 |
-|2023.10.17|Bi-LSTM사용, 사전학습 모델 도입(fastText)|
-|2023.11.07|모델 제안 및 성능 발표|
-|2023.11.14|답변 분석 알고리즘 제안 및 예측성능|
 |2023.11.28|최종 발표|
+|2023.11.14|답변 분석 알고리즘 제안 및 예측성능|
+|2023.11.07|모델 제안 및 성능 발표|
+|2023.10.17|Bi-LSTM사용, 사전학습 모델 도입(fastText)|
+|2023.09.19|LSTM 모델 학습 결과 / 답변분류 모델|
+|2023.09.05|LSTM 모델 구현|
+|2023.08.22|데이터 수집 방법, 데이터 증강방법|
+|2023.08.09|주제 선정 및 소개|
+
+
+
+
+
 
 
 <br>
