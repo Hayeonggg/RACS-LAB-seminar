@@ -12,7 +12,7 @@ ___
   
 |Date|Title|
 |:---:|:---:|
-|2024.05.30|LLM 최신 기술 동향 소개|
+|2024.05.30|[LLM 최신 기술 동향 소개](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.05.30_%EC%9C%A0%ED%95%98%EC%98%81.pdf) |
 |2024.05.09|[paper review] Transformer|
 |2024.04.04|자연어 처리에서의 모델 성능 평가방법(PPL)|
 |2024.03.28|자연어 처리에서의 모델 성능 평가방법(BLEU Score)|
