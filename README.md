@@ -13,11 +13,11 @@ ___
 |Date|Title|
 |:---:|:---:|
 |2024.05.30|[LLM 최신 기술 동향 소개](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.05.30_%EC%9C%A0%ED%95%98%EC%98%81.pdf) |
-|2024.05.09|[paper review] Transformer|
-|2024.04.04|자연어 처리에서의 모델 성능 평가방법(PPL)|
-|2024.03.28|자연어 처리에서의 모델 성능 평가방법(BLEU Score)|
-|2024.03.03|[paper review] Attention|
-|2024.02.19|[paper review] Sequence to Sequence|
+|2024.05.09|[paper review] [Transformer](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.05.09_%EC%9C%A0%ED%95%98%EC%98%81.pdf)|
+|2024.04.04|[PPL](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.04.04_%EC%9C%A0%ED%95%98%EC%98%81.pdf)|
+|2024.03.28|[BLEU Score](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.03.28_%EC%9C%A0%ED%95%98%EC%98%81.pdf)|
+|2024.03.05|[[paper review] Attention](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.03.05_%EC%9C%A0%ED%95%98%EC%98%81.pdf)|
+|2024.02.19|[[paper review] Sequence to Sequence](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.02.19_%EC%9C%A0%ED%95%98%EC%98%81.pdf)|
 |2023.08.29|Transformer-Encoder 부분|
 |2023.07.26|Attention|
 |2023.07.13|seq2seq|
