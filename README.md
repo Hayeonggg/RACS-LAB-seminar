@@ -6,23 +6,26 @@
 
 ___
 ## About NLP
-
 ### NLP 
 `2023.01.26` ~ `2023.07.26`
 - 이론 발표
   
 |Date|Title|
 |:---:|:---:|
-|2023.03.30|카운트 기반의 단어표현|
-|2023.04.13|GPT 기술 소개|
-|2023.05.03|워드 임베딩 모델|
-|2023.05.18|Word2Vec|
-|2023.05.25|n-gram, NNLM|
-|2023.06.01|Word2Vec-CBOW|
-|2023.06.29|skip-gram negative sampling(SGNS), RNN, LSTM|
-|2023.07.13|seq2seq|
-|2023.07.26|Attention|
 |2023.08.29|Transformer-Encoder 부분|
+|2024.03.28|자연어 처리에서의 모델 성능 평가방법(BLEU Score)|
+|2024.03.03|[paper review] NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE|
+|2024.02.19|[paper review] Sequence to Sequence Learning with Neural Networks|
+|2023.08.29|Transformer-Encoder 부분|
+|2023.07.26|Attention|
+|2023.07.13|seq2seq|
+|2023.06.29|skip-gram negative sampling(SGNS), RNN, LSTM|
+|2023.06.01|Word2Vec-CBOW|
+|2023.05.25|n-gram, NNLM|
+|2023.05.18|Word2Vec|
+|2023.05.03|워드 임베딩 모델|
+|2023.04.13|GPT 기술 소개|
+|2023.03.30|카운트 기반의 단어표현|
 
 <br>
 
@@ -42,17 +45,17 @@ ___
 |2023.11.28|최종 발표|
 
 
-
 <br>
-## Others
 
+## Others
 ### 논문작성법 
 `2023.12.26`
 - 후배들을 위한 논문읽는 방법, 작성방법 세미나 진행
+
+
 <br>
 
-### Chapter 3. NLP 관련 심화 세미나 진행
-`2024.02.19` ~ 
+
   
   
 
