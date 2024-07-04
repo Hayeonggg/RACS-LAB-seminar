@@ -11,6 +11,7 @@ ___
   
 |Date|Title|
 |:---:|:---:|
+|2024.07.03|[프로젝트 소개, RAG](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.07.04_%EC%9C%A0%ED%95%98%EC%98%81.pdf)|
 |2024.05.30|[LLM 최신 기술 동향 소개](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.05.30_%EC%9C%A0%ED%95%98%EC%98%81.pdf) |
 |2024.05.09|[paper review] [Transformer](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.05.09_%EC%9C%A0%ED%95%98%EC%98%81.pdf)|
 |2024.04.04|[PPL](https://github.com/Hayeonggg/RACS-LAB-seminar/blob/main/presentation/24.04.04_%EC%9C%A0%ED%95%98%EC%98%81.pdf)|
